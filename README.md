@@ -2,8 +2,13 @@
 
 ### Explored dataset from [here](https://www.kaggle.com/datasets/jarredpriester/taylor-swift-spotify-dataset?select=taylor_swift_spotify.csv) on different TS song features (based on Spotify data)
 
+### See the notebook + results visualized [here](http://htmlpreview.github.io/?https://github.com/kitkatmia/TS-Song-Popularity-Analysis/blob/main/superior_preview.html)
+
+- Unfortunately, github preview of .ipynb extensions is lacking right now (:disappointed_relieved:), so the best viewing alternative was converting the file to an html file and getting a link to that
+
 ### Main parts:
-- EDA 
+
+- EDA
 - Regression (Linear Regression, SVR, Random Forest, Gradient Boosting, Decision Tree)
 - Clustering (DBSCAN)
 - And many interesing side tangents
