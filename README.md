@@ -1,6 +1,6 @@
 # TS-Song-Popularity-Analysis
 
-### Explored dataset from [here](https://www.kaggle.com/datasets/jarredpriester/taylor-swift-spotify-dataset?select=taylor_swift_spotify.csv) on different TS song features (based on Spotify data)
+### Explored dataset from [here](https://www.kaggle.com/datasets/jarredpriester/taylor-swift-spotify-dataset?select=taylor_swift_spotify.csv) on different TS song features (based on Spotify data of month of September)
 
 ### See the notebook + results visualized [here](http://htmlpreview.github.io/?https://github.com/kitkatmia/TS-Song-Popularity-Analysis/blob/main/superior_preview.html)
 
